@@ -172,6 +172,7 @@ footer dd {
   color: #a5b8e2;
   font-size: 11px;
   padding-bottom: 15px;
+  line-height: 14px;
 }
 /* line 122, ../sass/screen.scss */
 footer a {
